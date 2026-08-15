@@ -301,7 +301,7 @@ nav_order: 2
       </p>
       <ul style="text-align: left; margin-top: 5px; padding-left: 20px;">
       <li>
-        To be updated
+        Ph.D program in Business Administration at The Chinese University of Hong Kong
       </li>
       </ul>
     </div>
