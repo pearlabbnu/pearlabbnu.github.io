@@ -14,11 +14,7 @@ nav_order: 3
 
 <p>
 
-† indicates current or former student author under Dr. Li Niu's mentorship;
-
-* indicates shared first-authorship;
-
-# indicates corresponding author.
+† indicates current or former student author under Dr. Li Niu's mentorship.
 
 </p>
 
