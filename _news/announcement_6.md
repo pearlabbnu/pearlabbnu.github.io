@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 date: 2026-10-18
